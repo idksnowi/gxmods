@@ -32,7 +32,7 @@
             {
                 "dark":
                 {
-                    "image": "wallpaper/CozyAnime.jpg",
+                    "image": "wallpaper/CozyAnime.Png",
                     "text_color": "#ffffff",
                     "text_shadow": "#cccccc"
                 },
@@ -45,9 +45,9 @@
             },
             "background_music":
             [
-                "music/layer4.mp3",
+                "music/layer4.mp4",
                 "music/layer3.mp3",
-                "music/layer2.mp3",
+                "music/layer2.mp4",
                 "music/layer1.mp3"
             ],
             "keyboard_sounds":
